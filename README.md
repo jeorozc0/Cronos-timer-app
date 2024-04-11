@@ -19,8 +19,9 @@ MultiTimer is a versatile time management app that allows users to set and run m
 
 ## How to Install
 
-1. **Download**: Download the MultiTimer app from the App Store/Google Play Store.
-2. **Install**: Follow the on-screen instructions to install the app on your device.
-3. **Open**: Launch the app and start managing your time more efficiently!
+1. **Clone the Repository**: Clone the MultiTimer repository to your local machine.
+2. **Install Dependencies**: Run `npm install` in the project directory to install the necessary dependencies.
+3. **Start the App**: Run `npm start` to start the development server.
+4. **Open on Device/Emulator**: Use the Expo Go app on your device or an emulator to scan the QR code and open the app.
 
 
